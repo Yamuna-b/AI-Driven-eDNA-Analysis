@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ## 7. Contact
 
 For questions, fresh data/result links, or getting started help:  
-**Contact:** [your-email@example.com]  
+**Contact:** [yamuna.bsvy@gmail.com]  
 (or open a GitHub issue)
 
 ---
