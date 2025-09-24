@@ -1,0 +1,254 @@
+2025-09-21 19:13:06,789 - ERROR - FASTA file not found: input.fasta
+2025-09-21 19:24:46,688 - WARNING - From C:\Users\DELL\Desktop\AI Driven EDNA\AI Driven EDNA\scripts\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-09-21 19:25:05,658 - WARNING - No BLAST matches found for sequence query
+2025-09-21 19:32:28,437 - WARNING - No BLAST matches found for sequence query
+2025-09-21 19:35:17,997 - WARNING - No BLAST matches found for sequence query
+2025-09-21 19:37:09,597 - WARNING - No BLAST matches found for sequence query
+2025-09-21 19:42:00,276 - INFO - BLAST match found for query: Panthera_tigris (100.0% identity)
+2025-09-21 19:42:25,928 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 19:42:50,473 - INFO - BLAST match found for query: species_A (100.0% identity)
+2025-09-21 19:52:12,027 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 19:59:19,387 - INFO - BLAST match found for query: Panthera_tigris (100.0% identity)
+2025-09-21 20:00:10,342 - INFO - BLAST match found for query: species_A (90.476% identity)
+2025-09-21 20:02:06,351 - WARNING - No BLAST matches found for sequence query
+2025-09-21 20:04:35,135 - INFO - BLAST match found for query: species_A (90.476% identity)
+2025-09-21 20:23:29,156 - WARNING - No BLAST matches found for sequence query
+2025-09-21 20:23:52,460 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 20:27:37,269 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 20:28:27,036 - WARNING - No BLAST matches found for sequence query
+2025-09-21 20:31:45,428 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 20:32:01,825 - WARNING - No BLAST matches found for sequence query
+2025-09-21 20:53:14,166 - WARNING - No BLAST matches found for sequence query
+2025-09-21 20:53:38,150 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 20:58:40,588 - WARNING - No BLAST matches found for sequence query
+2025-09-21 20:58:54,192 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 21:12:19,410 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:13:30,251 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 21:14:50,616 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 21:15:09,899 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:17:34,180 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 21:17:54,626 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:19:46,215 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:19:48,184 - INFO - BLAST match found for query: Panthera_tigris (100.0% identity)
+2025-09-21 21:19:49,660 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:19:50,852 - INFO - BLAST match found for query: species_A (90.476% identity)
+2025-09-21 21:19:52,275 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:19:53,600 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 21:29:31,297 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:29:51,485 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 21:30:07,516 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 21:30:09,363 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:30:10,967 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:30:12,253 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:30:13,507 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:30:14,950 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:30:16,297 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:30:17,631 - INFO - BLAST match found for query: species_A (100.0% identity)
+2025-09-21 21:30:18,991 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:30:20,312 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:30:21,785 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:30:23,078 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:30:24,345 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:30:26,537 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:30:27,985 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:31:23,571 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 21:31:25,008 - INFO - BLAST match found for query: Panthera_tigris (100.0% identity)
+2025-09-21 21:31:26,314 - INFO - BLAST match found for query: species_A (100.0% identity)
+2025-09-21 21:31:27,585 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 21:31:28,858 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 21:34:02,924 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:34:15,822 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 21:34:33,184 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 21:34:35,834 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:34:37,083 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:34:38,366 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 21:34:39,796 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 21:34:42,219 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:34:43,737 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 21:34:46,505 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:34:48,209 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:34:49,502 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:34:50,833 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 21:34:52,035 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:34:53,161 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:34:54,391 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:34:55,534 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:35:52,635 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 21:35:58,921 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 21:36:00,727 - INFO - BLAST match found for query: Panthera_tigris (100.0% identity)
+2025-09-21 21:36:02,000 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:36:03,434 - INFO - BLAST match found for query: species_A (90.476% identity)
+2025-09-21 21:36:04,720 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:36:06,141 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 21:42:44,058 - INFO - BLAST match found for query: Panthera_tigris (100.0% identity)
+2025-09-21 21:42:47,361 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:42:51,801 - INFO - BLAST match found for query: species_A (90.476% identity)
+2025-09-21 21:42:54,736 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:42:58,762 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 21:43:27,852 - INFO - BLAST match found for query: species_A (100.0% identity)
+2025-09-21 21:43:31,043 - INFO - BLAST match found for query: Panthera_tigris (100.0% identity)
+2025-09-21 21:43:34,622 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:43:38,653 - INFO - BLAST match found for query: species_A (100.0% identity)
+2025-09-21 21:43:39,512 - INFO - BLAST match found for query: species_A (100.0% identity)
+2025-09-21 21:43:58,568 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:44:23,137 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:44:25,417 - INFO - BLAST match found for query: Panthera_tigris (100.0% identity)
+2025-09-21 21:44:27,248 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:44:28,869 - INFO - BLAST match found for query: species_A (90.476% identity)
+2025-09-21 21:44:30,607 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:44:32,401 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 21:46:02,562 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:46:09,541 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:46:11,911 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:46:14,197 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:46:16,222 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:46:18,446 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:46:20,617 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:46:22,292 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:46:24,129 - INFO - BLAST match found for query: species_A (100.0% identity)
+2025-09-21 21:46:25,697 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:46:27,542 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:46:29,289 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:46:31,078 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:46:32,712 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:46:34,663 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:46:36,297 - WARNING - No BLAST matches found for sequence query
+2025-09-21 21:49:41,497 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:12:44,141 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 22:13:22,985 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:13:58,971 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:14:31,948 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:14:34,816 - INFO - BLAST match found for query: Panthera_tigris (100.0% identity)
+2025-09-21 22:14:36,895 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:14:38,808 - INFO - BLAST match found for query: species_A (90.476% identity)
+2025-09-21 22:14:40,981 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:14:42,696 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 22:16:52,248 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:16:59,010 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:17:01,361 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:17:04,656 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:17:07,205 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:17:08,993 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:17:12,028 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:17:14,525 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:17:16,761 - INFO - BLAST match found for query: species_A (100.0% identity)
+2025-09-21 22:17:19,606 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:17:22,011 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:17:24,127 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:17:26,147 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:17:28,321 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:17:30,175 - WARNING - No BLAST matches found for sequence query
+2025-09-21 22:17:35,729 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:18:45,848 - INFO - BLAST match found for query: Panthera_tigris (100.0% identity)
+2025-09-21 23:19:17,467 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:19:25,629 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:19:26,934 - INFO - BLAST match found for query: Panthera_tigris (100.0% identity)
+2025-09-21 23:19:28,078 - INFO - BLAST match found for query: species_A (100.0% identity)
+2025-09-21 23:19:29,185 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 23:19:30,363 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 23:25:14,895 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:25:16,062 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:25:17,215 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 23:25:18,279 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-21 23:25:19,325 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:25:20,416 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 23:25:21,504 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:25:22,580 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:25:23,728 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:25:24,902 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 23:25:25,961 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:25:26,971 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:25:28,015 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:25:29,102 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:27:35,713 - INFO - BLAST match found for query: Panthera_tigris (100.0% identity)
+2025-09-21 23:27:36,810 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:27:37,958 - INFO - BLAST match found for query: species_A (90.476% identity)
+2025-09-21 23:27:38,958 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:27:40,091 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-21 23:36:35,976 - INFO - BLAST match found for query: Panthera_tigris (100.0% identity)
+2025-09-21 23:37:13,370 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:37:55,995 - INFO - BLAST match found for query: Panthera_tigris (100.0% identity)
+2025-09-21 23:37:57,109 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:37:58,198 - INFO - BLAST match found for query: species_A (90.476% identity)
+2025-09-21 23:37:59,458 - WARNING - No BLAST matches found for sequence query
+2025-09-21 23:38:00,617 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-22 09:22:15,873 - INFO - BLAST match found for query: Panthera_tigris (100.0% identity)
+2025-09-22 09:23:55,712 - INFO - BLAST match found for query: species_A (100.0% identity)
+2025-09-22 09:25:08,877 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:25:56,593 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:25:57,331 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:25:58,424 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:25:59,167 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:25:59,915 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:26:00,747 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:26:01,592 - INFO - BLAST match found for query: species_A (100.0% identity)
+2025-09-22 09:26:02,795 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:26:03,730 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:26:04,746 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:26:05,545 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:26:06,527 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:26:07,502 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:26:08,439 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:29:46,015 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:29:46,849 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:29:48,333 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:29:49,247 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:29:52,407 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:29:53,353 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:29:54,433 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:29:55,398 - INFO - BLAST match found for query: species_A (100.0% identity)
+2025-09-22 09:29:56,266 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:29:56,955 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:29:57,903 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:29:58,768 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:29:59,606 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:30:00,734 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:30:01,729 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:35:33,668 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:35:35,017 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:35:36,316 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:35:37,464 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:35:38,587 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:35:39,736 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:35:40,808 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:35:41,888 - INFO - BLAST match found for query: species_A (100.0% identity)
+2025-09-22 09:35:42,962 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:35:44,007 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:35:45,114 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:35:46,219 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:35:47,360 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:35:48,457 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:35:49,576 - WARNING - No BLAST matches found for sequence query
+2025-09-22 09:41:45,888 - WARNING - No BLAST matches found for sequence query
+2025-09-22 10:50:14,888 - WARNING - No BLAST matches found for sequence query
+2025-09-22 10:50:49,947 - WARNING - No BLAST matches found for sequence query
+2025-09-22 10:51:08,639 - WARNING - No BLAST matches found for sequence query
+2025-09-22 10:51:09,771 - WARNING - No BLAST matches found for sequence query
+2025-09-22 10:51:10,841 - WARNING - No BLAST matches found for sequence query
+2025-09-22 10:51:11,922 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-22 10:51:12,949 - INFO - BLAST match found for query: species_B (100.0% identity)
+2025-09-22 10:51:13,985 - WARNING - No BLAST matches found for sequence query
+2025-09-22 10:51:15,089 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-22 10:51:16,146 - WARNING - No BLAST matches found for sequence query
+2025-09-22 10:51:17,183 - WARNING - No BLAST matches found for sequence query
+2025-09-22 10:51:18,264 - WARNING - No BLAST matches found for sequence query
+2025-09-22 10:51:19,382 - INFO - BLAST match found for query: test_species (100.0% identity)
+2025-09-22 10:51:20,440 - WARNING - No BLAST matches found for sequence query
+2025-09-22 10:51:21,463 - WARNING - No BLAST matches found for sequence query
+2025-09-22 10:51:22,783 - WARNING - No BLAST matches found for sequence query
+2025-09-22 10:51:23,844 - WARNING - No BLAST matches found for sequence query
+2025-09-24 14:17:09,666 - ERROR - FASTA file not found: your_fasta_file.fasta
+2025-09-24 14:18:04,068 - ERROR - FASTA file not found: ref.fasta
+2025-09-24 14:18:28,328 - ERROR - FASTA file not found: data\ref.fasta
+2025-09-24 14:18:35,235 - INFO - Starting batch processing of ..\data\ref.fasta
+2025-09-24 14:18:35,484 - INFO - Processing 3 sequences from ..\data\ref.fasta
+2025-09-24 14:18:35,485 - INFO - Processing sequence 1/3: species_A
+2025-09-24 14:18:35,511 - ERROR - Error running BLAST for sequence species_A: [WinError 2] The system cannot find the file specified
+2025-09-24 14:18:35,615 - INFO - Processing sequence 2/3: species_B
+2025-09-24 14:18:35,665 - ERROR - Error running BLAST for sequence species_B: [WinError 2] The system cannot find the file specified
+2025-09-24 14:18:35,851 - INFO - Processing sequence 3/3: test_species
+2025-09-24 14:18:35,945 - ERROR - Error running BLAST for sequence test_species: [WinError 2] The system cannot find the file specified
+2025-09-24 14:18:36,422 - INFO - Results saved to results.csv
+2025-09-24 14:18:36,505 - INFO - Processing complete! 3 sequences processed.
+2025-09-24 14:18:36,612 - INFO - Results saved to: results.csv

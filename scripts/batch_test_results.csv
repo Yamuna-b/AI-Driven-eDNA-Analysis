@@ -1,0 +1,11 @@
+Index,True_Species,Predicted_Species,Confidence,Cluster,Correct
+0,Salmo_salar,Salmo_salar,0.5796,2,True
+1,Salmo_salar,Salmo_salar,0.4697,2,True
+2,Salmo_salar,Salmo_salar,0.5553,2,True
+3,Esox_lucius,Esox_lucius,0.5291,2,True
+4,Salmo_salar,Salmo_salar,0.5178,2,True
+5,Salmo_salar,Salmo_salar,0.4183,2,True
+6,Salmo_salar,Salmo_salar,0.3636,2,True
+7,Esox_lucius,Esox_lucius,0.5754,2,True
+8,Esox_lucius,Esox_lucius,0.5139,2,True
+9,Anguilla_anguilla,Anguilla_anguilla,0.873,2,True

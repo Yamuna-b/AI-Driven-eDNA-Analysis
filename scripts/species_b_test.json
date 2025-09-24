@@ -1,0 +1,13 @@
+[
+  {
+    "Sequence_ID": "manual_input",
+    "Sequence": "TTGCATGCATGCATGCATGCATGCATGCATGCATGC",
+    "Status": "Success",
+    "Species": "species_B",
+    "Identity": 100.0,
+    "E-value": 1.61e-17,
+    "Bit_Score": 67.6,
+    "Length": 36,
+    "GC_Content": 50.0
+  }
+]

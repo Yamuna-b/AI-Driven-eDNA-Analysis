@@ -1,0 +1,4 @@
+Sequence_ID,Sequence,Status,Species,Identity,E-value,Bit_Score,Length,GC_Content
+species_A,CGTCAGTCAGTCAGTCAGTCAGTCAGTCAGTCAGTC,No Match,No Match,,,,36,52.78
+species_B,TTGCATGCATGCATGCATGCATGCATGCATGCATGC,No Match,No Match,,,,36,50.0
+test_species,ATCGATCGATCGATCGATCGATCGATCGATCGATCG,No Match,No Match,,,,36,50.0
