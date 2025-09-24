@@ -1,5 +1,0 @@
-Sequence_ID,Sequence,Status,Species,Identity,E-value,Bit_Score,Length,GC_Content
-seq1_test_sequence,ATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCG,No Match,No Match,,,,44,50.0
-seq2_sample_dna,GCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTA,No Match,No Match,,,,44,50.0
-seq3_example_sequence,TTAACCGGTTAACCGGTTAACCGGTTAACCGGTTAACCGGTTAA,No Match,No Match,,,,44,45.45
-seq4_demo_sequence,CGTACGTACGTACGTACGTACGTACGTACGTACGTACGTACGTA,No Match,No Match,,,,44,50.0

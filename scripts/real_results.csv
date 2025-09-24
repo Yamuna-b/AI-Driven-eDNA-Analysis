@@ -1,5 +1,0 @@
-Sequence_ID,Sequence,Status,Species,Identity,E-value,Bit_Score,Length,GC_Content
-Panthera_tigris_test,ATGCATGCATGCATGCATGCATGCATGCATGCATGC,No Match,No Match,,,,36,50.0
-species_A_test,CGTCAGTCAGTCAGTCAGTCAGTCAGTCAGTCAGTC,No Match,No Match,,,,36,52.78
-species_B_test,TTGCATGCATGCATGCATGCATGCATGCATGCATGC,No Match,No Match,,,,36,50.0
-test_species_sample,ATCGATCGATCGATCGATCGATCGATCGATCGATCG,No Match,No Match,,,,36,50.0
