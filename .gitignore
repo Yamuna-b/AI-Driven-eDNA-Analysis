@@ -1,8 +1,0 @@
-# Ignore data and large files
-data/
-results/
-*.fastq
-*.npy
-*.pt
-*.h5
-*.zip
