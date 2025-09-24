@@ -252,3 +252,4 @@
 2025-09-24 14:18:36,422 - INFO - Results saved to results.csv
 2025-09-24 14:18:36,505 - INFO - Processing complete! 3 sequences processed.
 2025-09-24 14:18:36,612 - INFO - Results saved to: results.csv
+2025-09-24 14:29:10,165 - ERROR - Error running BLAST for sequence query: [WinError 2] The system cannot find the file specified
